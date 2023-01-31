@@ -1,0 +1,15 @@
+{
+    "MobiConnect": {
+        "deployment_environments": {
+            "dev": {
+                "regions": [
+                    "meridian",
+                    "alameda",
+                    "mobitvRegion"
+                ]
+            },
+            "prod": {},
+            "staging": {}
+        }
+    }
+}

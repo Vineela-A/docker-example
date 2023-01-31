@@ -1,0 +1,31 @@
+{
+    "MobiConnect": {
+        "deployment_environments": {
+            "dev": {
+                "regions": [
+                    "meridian",
+                    "alameda",
+                    "mobitvRegion"
+                ]
+            },
+            "prod": {
+                "regions": [
+                    "santaclara",
+                    "meridian",
+                    "alameda",
+                    "contracosta",
+                    "maxxsouth",
+                    "buckeye"
+                ]
+            },
+            "staging": {
+                "regions": [
+                    "santaclara",
+                    "meridian",
+                    "alameda",
+                    "contracosta"
+                ]
+            }
+        }
+    }
+}
